@@ -1,0 +1,140 @@
+body {
+  margin: 0 auto;  /* Para que el contenedor este centrado */
+  text-align:center;
+  padding-top: 20px;
+  
+}
+
+
+
+h2{
+  text-align: center;
+  margin-bottom: 10px;
+  color:#FFF;
+  font-family:Verdana, Geneva, sans-serif;
+  font-size: 30px;
+}
+
+.aspecto{
+  text-align: center;
+  /* border: solid;*/
+}
+
+.icon1{
+  font-size: 400%;
+}
+
+.header{
+   height:170px;
+  float: none;
+   position:absolute;
+  background:inherit;
+   box-sizing:border-box;
+   background-color: rgba(0, 255, 255);
+   border-width:5px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:10px;
+}
+
+.disabled {
+    pointer-events:none; //This makes it not clickable
+    opacity:0.6;         //This grays it out to look disabled
+}
+
+.imagenlogo{
+  height: 110px;
+  margin-top: 25px;
+}
+
+.navBar {
+  margin-top: 10px;
+  padding-top: 10px;
+  align:center;
+}
+
+.Texto{
+  text-align: center;
+  color:#000;
+  font-family:Arial;
+  font-size: 15px;
+}
+
+.Texto1{
+  text-align: center;
+  color:#000;
+  font-family:Arial;
+}
+
+
+.content {
+  margin-top: 10px;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-top: 35px;
+  padding-bottom: 50px;
+  float: left;
+  background:inherit;
+  background-color: rgba(51, 153, 51);
+  box-sizing:border-box;
+  border-width:5px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:10px;
+}
+
+.rightMenu {
+  margin-top: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 1px;
+  padding-left: 1px;
+  float: none;
+  background:inherit;
+  background-color: rgba(255, 255, 255);
+  box-sizing:border-box;
+  border-width:5px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:10px;
+}
+
+.leftMenu{
+  margin-top: 10px;
+  padding-top: 65px;
+  padding-bottom: 65px;
+  float: none;
+  position: absolute;
+  background:inherit;
+  background-color: rgba(255, 255, 255);
+  box-sizing:border-box;
+  border-width:5px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:10px;
+}
+
+.footer{
+  margin-top: 10px;
+  padding-top: 10px;
+  height:70px;
+  float: none;
+  position:absolute;
+  background:inherit;
+  background-color: yellow;
+  box-sizing:border-box;
+  border-width:5px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:10px;
+}
+
+
+
+
+
+
+
+
+
+
